@@ -1,0 +1,16 @@
+*{
+    margin: 0 auto;
+}
+
+.control-panel{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 50%;
+    border: 1px solid gray;
+    background: rgb(251, 146, 255);
+}
+
+.header-text{
+    display: flex;
+}
